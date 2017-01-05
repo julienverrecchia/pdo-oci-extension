@@ -1,4 +1,7 @@
-# The motherf*cking way the get Oracle database connections in PHP5 over Ubuntu, revisited
+# Oracle database connections in PHP5 over Ubuntu
+
+Original author : Tasso Evangelista
+https://github.com/tassoevan
 
 Special thanks to:
 
